@@ -1,0 +1,27 @@
+path: DIOR_dataset
+train: images/train_dehazed
+val: images/val_dehazed
+test: images/test_dehazed
+
+nc: 20
+
+names: [ 'airplane',
+         'airport',
+         'baseballfield',
+         'basketballcourt',
+         'bridge',
+         'chimney',
+         'dam',
+         'Expressway-Service-area',
+         'Expressway-toll-station',
+         'golffield',
+         'groundtrackfield',
+         'harbor',
+         'overpass',
+         'ship',
+         'stadium',
+         'storagetank',
+         'tenniscourt',
+         'trainstation',
+         'vehicle',
+         'windmill']
